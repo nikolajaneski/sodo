@@ -81,7 +81,7 @@ $settings['phoenix'] = [
             'port' => 3306,
             'username' => 'root',
             'password' => '',
-            'db_name' => 'slim_skeleton_dev',
+            'db_name' => 'grabitest',
             'charset' => 'utf8',
         ],
         'local2' => [
