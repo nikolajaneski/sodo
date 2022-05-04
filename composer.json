@@ -24,7 +24,7 @@
         "nyholm/psr7-server": "^1.0",
         "php-di/php-di": "^6",
         "phpmailer/phpmailer": "^6.5",
-        "rbdwllr/psr-jwt": "^1.0",
+        "rbdwllr/psr-jwt": "^2.0",
         "selective/array-reader": "^1.1",
         "selective/basepath": "^2",
         "selective/validation": "^2",
